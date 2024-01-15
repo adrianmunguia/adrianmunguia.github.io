@@ -30,11 +30,12 @@ section {
 section h2 {
   color: #333;
 }
-
 ul {
   list-style: circle;
   padding: 0;
+  margin-left: 20px; 
 }
+
 
 ul li {
   margin-bottom: 10px;
