@@ -65,19 +65,18 @@ _Software Engineer (08/2006 - 03/2008)_
 - Led R&D initiatives, developing MVPs advanced identification technologies, including SMT (scars, marks and tattoos), face and iris.
 
 ## Patents
-### Interactive Content Generation (2016)
-- **Title:** [Interactive Content Generation](https://patents.justia.com/inventor/jose-adrian-munguia)
-- **Inventors:** Adrian Munguia, et al.
-- **Patent Numbers:**
+### [Interactive Content Generation (2016)](https://patents.justia.com/inventor/jose-adrian-munguia)
+- Inventors: Adrian Munguia, et al.
+- Patent Numbers:
   - TW201612780A
   - US20160042251A1
   - US9317778B2
   - US9336459B2
   - WO2016004330A1
+    
 ### Vehicle Matching System and Method (2011)
-- **Title:** Vehicle Matching System and Method
-- **Inventors:** Adrian Munguia, et al.
-- **Patent Status:** U.S. Patent Application 4682117280 (Patent pending)
+- Inventors: Adrian Munguia, et al.
+- Patent Status: U.S. Patent Application 4682117280 (Patent pending)
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
