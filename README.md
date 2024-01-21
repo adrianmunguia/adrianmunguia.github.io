@@ -1,6 +1,6 @@
 # Artificial Intelligence (AI) Products
 
-#### Computer Vision (CV), Machine Learning (ML), Deep Learning (DL), Data Science, Software Development.
+#### Computer Vision (CV), Machine Learning (ML), Deep Learning (DL), Data Science, Software Development, C++, Python, OpenCV, TensorFlow.
 
 ## Education
 - [Centro de Investigación Científica y Educación Superior de Ensenada (CICESE)](https://www.cicese.edu.mx) <br>
@@ -63,6 +63,21 @@ _Imaging Scientist (03/2008 - 09/2011)_
 _Software Engineer (08/2006 - 03/2008)_
 - Led development, testing, and compliance of features for law enforcement booking software with CALDOJ, ensuring accurate and secure documentation of individuals in correctional facilities for widespread commercial deployment.
 - Led R&D initiatives, developing MVPs advanced identification technologies, including SMT (scars, marks and tattoos), face and iris.
+
+## Patents
+### Interactive Content Generation (2016)
+- **Title:** [Interactive Content Generation](https://patents.justia.com/inventor/jose-adrian-munguia)
+- **Inventors:** Adrian Munguia, et al.
+- **Patent Numbers:**
+  - TW201612780A
+  - US20160042251A1
+  - US9317778B2
+  - US9336459B2
+  - WO2016004330A1
+### Vehicle Matching System and Method (2011)
+- **Title:** Vehicle Matching System and Method
+- **Inventors:** Adrian Munguia, et al.
+- **Patent Status:** U.S. Patent Application 4682117280 (Patent pending)
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
