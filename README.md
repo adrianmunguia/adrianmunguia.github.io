@@ -78,6 +78,19 @@ _Software Engineer (08/2006 - 03/2008)_
 - Inventors: Adrian Munguia, et al.
 - Patent Status: U.S. Patent Application 4682117280 (Patent pending)
 
+## Volunteer Work
+**UNIDEP** <br>
+_Engineering Lecturer (10/2023 - Present)_
+- Undergraduate lecturer delivering high-quality instruction - in Systems & Data Architecture, and Discrete Mathematics actively engaging in mentoring and guiding students through their academic journey.
+**Autonomous University of Baja California (UABC)** <br>
+_AI Industry-University Link Committee Member (2021 - Present)_
+**Mexican Olympiads of Informatics (OMIBC)** <br>
+_Industry Advisor (2019 - Present)_
+**Deeplearning.ai** <br>
+[_PIE & AI Deep Learning Event Ambassador (2019 - Present)_](https://www.deeplearning.ai/blog/event-ambassador-spotlight-adrian-munguia/)
+**NVIDIA** <br>
+_AI Emerging Chapter Director supporting LATAM AI upskilling efforts (2021)_
+
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
