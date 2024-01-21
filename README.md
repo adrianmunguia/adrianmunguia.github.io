@@ -1,6 +1,6 @@
 # Artificial Intelligence (AI) Products
 
-#### Expertise: Computer Vision (CV), Machine Learning (ML), Deep Learning (DL), Data Science
+#### Computer Vision (CV), Machine Learning (ML), Deep Learning (DL), Data Science, Software Development.
 
 ## Education
 - [Centro de Investigación Científica y Educación Superior de Ensenada (CICESE)](https://www.cicese.edu.mx) <br>
