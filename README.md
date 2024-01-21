@@ -3,8 +3,10 @@
 #### Expertise: Computer Vision (CV), Machine Learning (ML), Deep Learning (DL), Data Science
 
 ## Education
-- M.S., Computer Science | [Centro de Investigación Científica y Educación Superior de Ensenada (CICESE)](https://www.cicese.edu.mx) (_2003_)	 			        		
-- B.S., Computer Science | [Universidad Autónoma de Baja California (UABC)](https://www.uabc.edu.mx) (_1998_)
+- [Centro de Investigación Científica y Educación Superior de Ensenada (CICESE)](https://www.cicese.edu.mx) <br>
+_Master of Science - Computer Science (2003)_ 
+- [Universidad Autónoma de Baja California (UABC)](https://www.uabc.edu.mx) <br>
+_Bachelor of Science - Computer Science (1998)_
 
 ## Work Experience
 **Productize-ai, Inc.** <br>
