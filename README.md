@@ -3,9 +3,9 @@
 #### Computer Vision (CV), Machine Learning (ML), Deep Learning (DL), Data Science, Software Development, C++, Python, OpenCV, TensorFlow.
 
 ## Education
-- [Centro de Investigación Científica y Educación Superior de Ensenada (CICESE)](https://www.cicese.edu.mx) <br>
+**[Centro de Investigación Científica y Educación Superior de Ensenada (CICESE)](https://www.cicese.edu.mx)** <br>
 _Master of Science - Computer Science (2003)_ 
-- [Universidad Autónoma de Baja California (UABC)](https://www.uabc.edu.mx) <br>
+**[Universidad Autónoma de Baja California (UABC)](https://www.uabc.edu.mx)** <br>
 _Bachelor of Science - Computer Science (1998)_
 
 ## Work Experience
@@ -96,12 +96,11 @@ _Industry Advisor (2019 - Present)_
 _AI Emerging Chapter Director supporting LATAM AI upskilling efforts (2021)_
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Face detection, iris segmentation, and biometrics.
+Developed algorithms for processing mugshots, detecting faces, eyes, and segmenting iris images from a distance. Used Hough transforms, gamma correction, thresholding, and Haar cascades algorithms in OpenCV.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Mugshot processing](/assets/mugshot.png)
+![Iris segmentation](/assets/iris.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
