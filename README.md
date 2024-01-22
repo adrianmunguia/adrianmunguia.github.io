@@ -97,17 +97,20 @@ _AI Emerging Chapter Director supporting LATAM AI upskilling efforts (2021)_
 
 ## Projects
 ### Face detection, iris segmentation, and biometrics.
-Developed algorithms for processing mugshots, detecting faces, eyes, and segmenting iris images from a distance. Used Hough transforms, gamma correction, thresholding, and Haar cascades algorithms in OpenCV.
+Developed application for mugshot processing with facial detection and landmark identification, and iris image segmentation from a distance using OpenCV with Hough transforms, gamma correction, thresholding, and Haar cascades.
 
 ![Mugshot processing](/assets/mugshot.png)
 ![Iris segmentation](/assets/iris.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### NextGenOCR: License Plate Recognition (LPR) and OCR for Por Automation
+Developed preprocessing algorithms, license plate (or text) localization, character segmentation, and recognition algorithms for LPR. Algorithms included text localization using morphological operators, thresholding, geometric normalization based on Radon transfgorms, and support vector machines (SVM).
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+![LPR](/assets/lpr3.png)
+![LPR](/assets/lpr4.png)
+![Container OCR](/assets/container_ocr_1.png)
+![Chassis OCR](/assets/chassis_ocr_1.png)
+![Chassis OCR](/assets/chassis_ocr_2.png)
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Publications
 Contribution to education chapter in: Del Pozo, Claudia May, Gómez Mont, Constanza y Martínez Pinto,
