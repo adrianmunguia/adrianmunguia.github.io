@@ -115,11 +115,11 @@ Developed preprocessing algorithms, license plate (or text) localization, charac
 In the case study of "EasyMatch - Enhancing Contraband Detection in VACIS-XPL," the challenge was to address visual inspection fatigue among operators scanning X-ray images in the Vehicle and Cargo Inspection System - XPL (VACIS-XPL). Over a period of 5 months, spanning R&D to engineering, the team identified the inefficiency of the existing method and developed EasyMatch—a novel image difference approach to aid operators in quickly detecting hidden contraband. The key challenges included non-linear warping in X-ray scans due to factors like vehicle speed variations and sensor heat. The team implemented the SIFT algorithm, adapted it in C++, and addressed outlier rejection to ensure accuracy. Overcoming challenges with OpenCV's SVD implementation, the team successfully implemented a 3D polynomial non-linear transformation warping model. EasyMatch significantly improved detection capabilities, reduced visual inspection fatigue, enhanced operational efficiency during high traffic flow, and became a core component integrated into SAIC's Vehicle and Cargo Inspection Systems, achieving substantial commercial success.
 <br>
 
-X-Ray scans of a vehicle. Left is the current scan and the right is the historical scan.
-![Contraband detection](/assets/easymatch_1.png)
+X-Ray scans of a vehicle. Left is the current scan and the right is the historical scan.<br>
+![Contraband detection](/assets/easymatch_1.png)<br>
 
-Difference between the dewarped operations on the images point to the contraband.
-![Contraband detection](/assets/easymatch_2.png)
+Difference between the dewarped operations on the images point to the contraband.<br>
+![Contraband detection](/assets/easymatch_2.png)<br>
 
 ### Digital Pathology: Automatic Focus Point Placement.
 Developed automatic focus point placement algorithms based on SIFT to find high-contrast regions where scanner could best focus across the entire slide.
