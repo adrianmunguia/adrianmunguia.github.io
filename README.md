@@ -116,10 +116,10 @@ In the case study of "EasyMatch - Enhancing Contraband Detection in VACIS-XPL," 
 <br>
 
 X-Ray scans of a vehicle. Left is the current scan and the right is the historical scan.
-![Contraband detection](/assets/Captura de pantalla 2023-12-22 143526.png)
+![Contraband detection](/assets/easymatch_1.png)
 
 Difference between the dewarped operations on the images point to the contraband.
-![Contraband detection](/assets/Captura de pantalla 2023-12-25 151202.png)
+![Contraband detection](/assets/easymatch_2.png)
 
 ### Digital Pathology: Automatic Focus Point Placement.
 Developed automatic focus point placement algorithms based on SIFT to find high-contrast regions where scanner could best focus across the entire slide.
